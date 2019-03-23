@@ -27,3 +27,8 @@ delete files : git rm file.extension
 rename files : git mv originalname.extension newname.extension
 
 moving from working copy to repo directly : git commit -am "message"
+
+to undo changes : git checkout -- filename.extension
+checkout means to take something from repo and make it your working copy
+
+to unstage files: git reset HEAD filename
