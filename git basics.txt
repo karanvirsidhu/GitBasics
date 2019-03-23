@@ -25,3 +25,5 @@ to compare the staging area with repo : git diff --staged
 delete files : git rm file.extension
 
 rename files : git mv originalname.extension newname.extension
+
+moving from working copy to repo directly : git commit -am "message"
