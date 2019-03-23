@@ -18,4 +18,6 @@ commits of particlular person: git log --author="name"
 
 adding specific file to staging area: git add filename.extension
 
-to view the changes in files : git diff
+to view the changes in files : git diff (it compares between working copy and repo)
+
+to compare the staging area with repo : git diff --staged
