@@ -7,3 +7,15 @@ Configure name and email:   git congif --global user.name
 Initialize the repo: 	git init
 
 ls -la: lists hidden files
+
+Add all changes made: git add .
+
+Making commit : 	git commit -m "message"
+
+Commit logs : git logs
+
+commits of particlular person: git log --author="name"
+
+adding specific file to staging area: git add filename.extension
+
+to view the changes in files : git diff
