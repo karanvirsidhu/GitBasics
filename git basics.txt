@@ -21,3 +21,7 @@ adding specific file to staging area: git add filename.extension
 to view the changes in files : git diff (it compares between working copy and repo)
 
 to compare the staging area with repo : git diff --staged
+
+delete files : git rm file.extension
+
+rename files : git mv originalname.extension newname.extension
