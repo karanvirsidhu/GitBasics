@@ -1,0 +1,9 @@
+
+
+git
+
+Configure name and email:   git congif --global user.name
+
+Initialize the repo: 	git init
+
+ls -la: lists hidden files
