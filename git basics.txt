@@ -32,3 +32,5 @@ to undo changes : git checkout -- filename.extension
 checkout means to take something from repo and make it your working copy
 
 to unstage files: git reset HEAD filename
+
+geting old version form repo : git checkout commitId -- filename 
