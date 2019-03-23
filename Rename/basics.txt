@@ -3,5 +3,3 @@ Workflow
 working copy -> staging area -> repository
 
 once we do a commit then git is keeping track of all the changes to those files.
-
-adding rusbbish...........sfdsfasdfasdf
